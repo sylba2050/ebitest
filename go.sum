@@ -1,10 +1,15 @@
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
+github.com/akamensky/argparse v0.0.0-20190309155458-28b0496b54cb h1:PbYR84S3iyS6IxmIhdUb9GsMdlnJMNn3LFJ4U1iZC+M=
+github.com/akamensky/argparse v0.0.0-20190309155458-28b0496b54cb/go.mod h1:pdh+2piXurh466J9tqIqq39/9GO2Y8nZt6Cxzu18T9A=
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1/go.mod h1:vR7hzQXu2zJy9AVAgeJqvqgH9Q5CA+iKCZ2gyEVpxRU=
+github.com/gofrs/flock v0.7.1 h1:DP+LD/t0njgoPBvT5MJLeliUIVQR03hiKR6vezdwHlc=
 github.com/gofrs/flock v0.7.1/go.mod h1:F1TvTiK9OcQqauNUHlbJvyl9Qa1QvF/gOUDKA14jxHU=
 github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0/go.mod h1:E/TSTwGwJL78qG/PmXZO1EjYhfJinVAhrmmHX6Z8B9k=
 github.com/hajimehoshi/bitmapfont v1.2.0/go.mod h1:h9QrPk6Ktb2neObTlAbma6Ini1xgMjbJ3w7ysmD7IOU=
 github.com/hajimehoshi/ebiten v1.10.0 h1:ADLOUI/7aaTOP7GRlQBHVI1Qtvfdt9M6XQqeULSK7Uo=
 github.com/hajimehoshi/ebiten v1.10.0/go.mod h1:8BJhIws+Jkol+z7hSGP/WFsaDAPTtRQ+ELBPPQetq2w=
+github.com/hajimehoshi/file2byteslice v0.0.0-20190607115218-790acb50cc61 h1:PYZd+KUiq0+ByYlNTMByZz2U/VJ+KmLJ9Q2QAoYb8G0=
+github.com/hajimehoshi/file2byteslice v0.0.0-20190607115218-790acb50cc61/go.mod h1:CqqAHp7Dk/AqQiwuhV1yT2334qbA/tFWQW0MD2dGqUE=
 github.com/hajimehoshi/go-mp3 v0.2.1/go.mod h1:Rr+2P46iH6PwTPVgSsEwBkon0CK5DxCAeX/Rp65DCTE=
 github.com/hajimehoshi/oto v0.3.4/go.mod h1:PgjqsBJff0efqL2nlMJidJgVJywLn6M4y8PI4TfeWfA=
 github.com/hajimehoshi/oto v0.5.2/go.mod h1:0QXGEkbuJRohbJaxr7ZQSxnju7hEhseiPx2hrh6raOI=
@@ -15,6 +20,10 @@ github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORN
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
 github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4/go.mod h1:4OwLy04Bl9Ef3GJJCoec+30X3LQs/0/m4HFRt/2LUSA=
+github.com/sylba2050/crop v0.0.0-20190715055755-4937e2b9549a h1:ZerroO8z6XZlPb/1B716WyxoPlJzWPTB+X0M8G3/iDo=
+github.com/sylba2050/crop v0.0.0-20190715055755-4937e2b9549a/go.mod h1:F2j/jcjzuTaaeepkYyNYU95k59Te8pnKhrHiltRYW2Q=
+github.com/sylba2050/imsize v0.0.0-20190715062135-39fb76f7b3a0 h1:r7EpvVhvKX80AX6/ZjBHkF6O8yPqG7cNQnyb8RG23LU=
+github.com/sylba2050/imsize v0.0.0-20190715062135-39fb76f7b3a0/go.mod h1:zkFuvkJI5dD0bKvCloxTKPrN/21cwcwOEmE59tZCRUY=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20190510104115-cbcb75029529/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/exp v0.0.0-20190306152737-a1d7652674e8/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
